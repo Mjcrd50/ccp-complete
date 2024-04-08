@@ -351,3 +351,7 @@ footer {
     background-color: rgb(22, 22, 22);
     color:white;
 }
+
+.dark-mode a {
+    color: #35DB90;
+}
